@@ -2,4 +2,5 @@
 Curso inicial EBAC
 
 Primeiro exemplo de commit e push no repositororio remoto.
-jsdiufbisud
+
+Segundo commit no arquivo
